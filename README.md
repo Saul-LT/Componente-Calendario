@@ -126,7 +126,7 @@ componenteCalendario1.setOnFechaSeleccionada(event -> {
 
 ---
 
-## 🔗 Video de demostración
+## Video de demostración
 - Explicación paso a paso para importar un archivo det tipo .jar en un nuevo proyecto Java.
 - Integración del Componente Visual en un JFrame.
 - Ejemplo práctico del uso dentro de una interfaz gráfica.
